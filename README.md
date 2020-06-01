@@ -24,3 +24,10 @@ After running the code there 4 new window will appear on screen. Let’s analyse
 Time Record of movements:
               The Time_of_movements file will be stored in the folder where your code file is stored.
                This file will be in csv extension. In this file the start time of motion and the end time of motion will be recorded.        
+
+
+###### Python3 Dependencies 
+```
+- opencv-python==3.4.9.33
+- pandas
+```
